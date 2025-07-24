@@ -1,0 +1,9 @@
+1. -> npm i -g vercel  --> to install vercel it donload vercel globally
+2. -> vercel login ->(cmd) to login cmd
+3 . -> Inside my project ->
+     i -> npm install  -> it is not neccesry
+     ii -> npm run build
+4. -> vercel
+// al this cmd is is used for deployment of project on vercel CLI
+
+if you wnat to change in project only you have to write cmd " vercel --prod" -> to change anything in ur existing prooject
